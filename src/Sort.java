@@ -9,6 +9,7 @@ public class Sort {
                     currentMin = idArray[j];
                     currentString = nameArray[j];
                     currentIndex = j;
+
                 }
             }
             if (currentIndex != i) {
@@ -30,7 +31,7 @@ public class Sort {
                 if (currentMin > idArray[j]) {
                     currentMin = idArray[j];
                     currentString = nameArray[j];
-                    currentIndex = j;
+                    currentIndex = j;zxvcxvcxv
                 }
             }
             if (currentIndex != i) {
